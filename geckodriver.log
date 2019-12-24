@@ -340,3 +340,303 @@ JavaScript error: , line 0: uncaught exception: [object Object]
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1576749980451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGC8FUt"
+1576749980871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576749980871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576749980871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576749980871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576749982377	Marionette	INFO	Listening on port 33047
+1576749982457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576749989084	Marionette	INFO	Stopped listening on port 33047
+1576758682650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5YJe5M"
+1576758683084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576758683084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576758683084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576758683084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576758684455	Marionette	INFO	Listening on port 45225
+1576758684559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576758692608	Marionette	INFO	Stopped listening on port 45225
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1576758924491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileebV7BX"
+1576758924903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576758924903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576758924903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576758924903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576758926293	Marionette	INFO	Listening on port 45603
+1576758926302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576758935181	Marionette	INFO	Stopped listening on port 45603
+1576759260321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFCHonf"
+1576759260715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576759260715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576759260716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576759260716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576759262108	Marionette	INFO	Listening on port 38929
+1576759262130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576759270005	Marionette	INFO	Stopped listening on port 38929
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 28003, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1576759860397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewRWWUV"
+1576759860828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576759860828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576759860828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576759860829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576759862416	Marionette	INFO	Listening on port 34757
+1576759862505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576759870764	Marionette	INFO	Stopped listening on port 34757
+1576759909353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBz2KJY"
+1576759909753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576759909753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576759909753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576759909753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576759911082	Marionette	INFO	Listening on port 36655
+1576759911162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576759949079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNiCOq6"
+1576759949551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576759949551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576759949551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576759949551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576759950927	Marionette	INFO	Listening on port 38689
+1576759950984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576760002598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2TldXm"
+1576760003015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576760003015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576760003016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576760003016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576760004494	Marionette	INFO	Listening on port 36529
+1576760004504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+[Parent 28848, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 28848, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576760042113	Marionette	INFO	Stopped listening on port 36655
+[Parent 29050, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 29050, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576760043757	Marionette	INFO	Stopped listening on port 38689
+[Parent 29257, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576760045040	Marionette	INFO	Stopped listening on port 36529
+1576760134009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4kqsvk"
+1576760134458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576760134459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576760134459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576760134459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576760135858	Marionette	INFO	Listening on port 34633
+1576760135914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576760145098	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 29543, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576760592209	Marionette	INFO	Stopped listening on port 34633
+1576843060424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegMo3hQ"
+1576843061011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576843061011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576843061012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576843061012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576843063087	Marionette	INFO	Listening on port 42921
+1576843063132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576843071816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1576843092014	Marionette	INFO	Stopped listening on port 42921
+1576843095940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7mgKbv"
+1576843096422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576843096423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576843096423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576843096423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576843098531	Marionette	INFO	Listening on port 42593
+1576843098610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576843106548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 23823, Gecko_IOThread] WARNING: pipe error (144): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23823, Gecko_IOThread] WARNING: pipe error (148): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23823, Gecko_IOThread] WARNING: pipe error (146): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1576843130455	Marionette	INFO	Stopped listening on port 42593
+1576843564420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesg22Ss"
+1576843564940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576843564940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576843564940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576843564941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576843566923	Marionette	INFO	Listening on port 35165
+1576843566974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576843577015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 24301, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 24301, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576843732152	Marionette	INFO	Stopped listening on port 35165
+1576843938755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOciEE3"
+1576843939292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576843939292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576843939292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576843939292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576843941272	Marionette	INFO	Listening on port 44073
+1576843941362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576843948512	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 24766, Gecko_IOThread] WARNING: pipe error (138): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576843984118	Marionette	INFO	Stopped listening on port 44073
+1576845216758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevyLP6i"
+1576845217159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576845217159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576845217159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576845217159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576845218615	Marionette	INFO	Listening on port 41401
+1576845218672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576845227803	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1576845307266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezOoW5o"
+1576845307685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576845307685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576845307686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576845307686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576845309262	Marionette	INFO	Listening on port 39765
+1576845309272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576845317847	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 25799, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576845394311	Marionette	INFO	Stopped listening on port 41401
+1576845939550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegbMURq"
+1576845939981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576845939981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576845939981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576845939981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576845941299	Marionette	INFO	Listening on port 35731
+1576845941355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1576845950259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 28073, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 28073, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576846094434	Marionette	INFO	Stopped listening on port 35731
+[Parent 27485, Gecko_IOThread] WARNING: pipe error (136): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576846251814	Marionette	INFO	Stopped listening on port 39765
+1577105216371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4SxhTX"
+1577105216805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105216805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105216805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105216805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105218415	Marionette	INFO	Listening on port 41445
+1577105218478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577105229067	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1577105239411	Marionette	INFO	Stopped listening on port 41445
+1577105274686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV4e1Rg"
+1577105275119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105275120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105275120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105275120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105276470	Marionette	INFO	Listening on port 32913
+1577105276491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577105288015	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 30681, Gecko_IOThread] WARNING: pipe error (135): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577105311770	Marionette	INFO	Stopped listening on port 32913
+1577105312141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexuMD20"
+1577105312548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105312548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105312549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105312549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105313984	Marionette	INFO	Listening on port 35485
+1577105314046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577105323980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 30885, Gecko_IOThread] WARNING: pipe error (134): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577105334257	Marionette	INFO	Stopped listening on port 35485
+1577105462983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMrNJ0n"
+1577105463384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105463384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105463384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105463384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105464799	Marionette	INFO	Listening on port 33751
+1577105464889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577105476042	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1577105494653	Marionette	INFO	Stopped listening on port 33751
+1577105565700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5lXlvl"
+1577105566107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105566107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105566107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105566107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105567455	Marionette	INFO	Listening on port 40313
+1577105567514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+[Parent 31542, Gecko_IOThread] WARNING: pipe error (136): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577105590551	Marionette	INFO	Stopped listening on port 40313
+1577105629535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2NaBJp"
+1577105629943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105629943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105629943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105629943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105631544	Marionette	INFO	Listening on port 44719
+1577105631642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577105649905	Marionette	INFO	Stopped listening on port 44719
+1577105793503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9XtbYs"
+1577105793929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105793929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105793929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105793929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105795312	Marionette	INFO	Listening on port 46683
+1577105795411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577105827046	Marionette	INFO	Stopped listening on port 46683
+1577105827753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefTTyR0"
+1577105828163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105828163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105828163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105828163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105829635	Marionette	INFO	Listening on port 36483
+1577105829659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577105861171	Marionette	INFO	Stopped listening on port 36483
+1577105934194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXJRDi5"
+1577105934578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105934579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105934579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105934579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105936226	Marionette	INFO	Listening on port 36161
+1577105936317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577105951831	Marionette	INFO	Stopped listening on port 36161
+1577105965722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMkIBBW"
+1577105966140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577105966140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577105966140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577105966140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577105967536	Marionette	INFO	Listening on port 45631
+1577105967628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+[Parent 326, Gecko_IOThread] WARNING: pipe error (135): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577105992653	Marionette	INFO	Stopped listening on port 45631
+1577106260603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDNpMwb"
+1577106261012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577106261013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577106261013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577106261013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577106262388	Marionette	INFO	Listening on port 46639
+1577106262408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://prod-edxapp.edx-cdn.org/static/js/lms-base-vendor.188b06b0a06d.js, line 1: Error: Syntax error, unrecognized expression: unsupported pseudo: -webkit-autofill
+1577106285640	Marionette	INFO	Stopped listening on port 46639
