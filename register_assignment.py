@@ -14,15 +14,14 @@ class EdxRegister(unittest.TestCase):
 
     def test_register(self):
         self.driver.get('https://courses.edx.org/register')
-        self.assertTrue(self.register.is_browser_on_the_page())
 
-        self.register.fill_form()
+        self.register.fill_form('tk6003205@gmail.com', 'Test 131', 'Tan3211t', 'Tk123@arbisoft' )
 
         self.select.select_country()
 
         self.register.create_account()
 
-        self.dashboard.is_browser_on_the_page()
+        self.dashboard.go_to_course_page()
 
 
 

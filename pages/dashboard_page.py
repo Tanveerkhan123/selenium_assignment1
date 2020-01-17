@@ -1,9 +1,16 @@
+from.base_page import BasePage
+from .courses_page import CoursePage
 
-class Dashboard(object):
-    def __init__(self, driver):
-        self.driver = driver
-
+class Dashboard(BasePage):
 
     def is_browser_on_the_page(self):
+        return self.find_elem('.btn-neutral').is_displayed()
 
-        assert 'Dashboard' in self.driver.title
+
+    def go_to_course_page(self):
+
+        self.find_elem('.btn-neutral').click()
+        CoursePage(self.driver).wait_for_page()
+
+
+
